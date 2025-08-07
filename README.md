@@ -100,7 +100,7 @@ C:/xampp/htdocs/lexibook/
 
 
 
-🧪 Testing the API
+## 🧪 Testing the API
 
 You can test the API using Postman, Thunder Client (VS Code)
 
@@ -127,7 +127,7 @@ POST /login
 
 
 
-📚 Books (requires authentication)
+## 📚 Books (requires authentication)
 
 > Basic authentication with username and password
 
@@ -164,7 +164,7 @@ POST /login
 
 
 
-🚀 Technologies Used
+## 🚀 Technologies Used
 
 PHP 8+
 
@@ -179,7 +179,7 @@ Postman for testing
 
 
 
-✍ Author
+## ✍ Author
 
 Developed by Olayemi Ojo
 
